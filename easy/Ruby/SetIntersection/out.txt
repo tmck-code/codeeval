@@ -1,0 +1,278 @@
+n1 is 9, n2 is 11
+n1 is 10, n2 is 11
+n1 is 11, n2 is 11
+Hit! 11,
+11
+n1 is 20, n2 is 25
+n1 is 25, n2 is 25
+Hit! 25,
+n1 is 36, n2 is 36
+Hit! 36,
+n1 is 45, n2 is 77
+n1 is 89, n2 is 77
+89 > 77
+n1 is 89, n2 is 88
+89 > 88
+n1 is 89, n2 is 98
+25,36
+n1 is 83, n2 is 78
+83 > 78
+n1 is 83, n2 is 79
+83 > 79
+n1 is 83, n2 is 80
+83 > 80
+n1 is 83, n2 is 81
+83 > 81
+n1 is 83, n2 is 82
+83 > 82
+n1 is 83, n2 is 83
+Hit! 83,
+n1 is 84, n2 is 84
+Hit! 84,
+n1 is 85, n2 is 85
+Hit! 85,
+n1 is 86, n2 is 86
+Hit! 86,
+n1 is 87, n2 is 87
+Hit! 87,
+n1 is 88, n2 is 88
+Hit! 88,
+n1 is 89, n2 is 89
+Hit! 89,
+n1 is 90, n2 is 90
+Hit! 90,
+n1 is 91, n2 is 91
+Hit! 91,
+83,84,85,86,87,88,89,90,91
+n1 is 53, n2 is 78
+n1 is 54, n2 is 78
+n1 is 55, n2 is 78
+n1 is 56, n2 is 78
+n1 is 57, n2 is 78
+n1 is 58, n2 is 78
+n1 is 59, n2 is 78
+n1 is 60, n2 is 78
+n1 is 61, n2 is 78
+n1 is 62, n2 is 78
+n1 is 63, n2 is 78
+n1 is 64, n2 is 78
+n1 is 65, n2 is 78
+n1 is 66, n2 is 78
+
+n1 is 65, n2 is 84
+n1 is 66, n2 is 84
+n1 is 67, n2 is 84
+n1 is 68, n2 is 84
+n1 is 69, n2 is 84
+n1 is 70, n2 is 84
+n1 is 71, n2 is 84
+n1 is 72, n2 is 84
+n1 is 73, n2 is 84
+n1 is 74, n2 is 84
+n1 is 75, n2 is 84
+n1 is 76, n2 is 84
+
+n1 is 1, n2 is 3
+n1 is 2, n2 is 3
+n1 is 3, n2 is 3
+Hit! 3,
+n1 is 4, n2 is 4
+Hit! 4,
+3,4
+n1 is 66, n2 is 88
+n1 is 67, n2 is 88
+n1 is 68, n2 is 88
+n1 is 69, n2 is 88
+n1 is 70, n2 is 88
+n1 is 71, n2 is 88
+n1 is 72, n2 is 88
+n1 is 73, n2 is 88
+n1 is 74, n2 is 88
+n1 is 75, n2 is 88
+n1 is 76, n2 is 88
+
+n1 is 94, n2 is 90
+94 > 90
+n1 is 94, n2 is 91
+94 > 91
+n1 is 94, n2 is 92
+94 > 92
+n1 is 94, n2 is 93
+94 > 93
+n1 is 94, n2 is 94
+Hit! 94,
+n1 is 95, n2 is 95
+Hit! 95,
+n1 is 96, n2 is 96
+Hit! 96,
+n1 is 97, n2 is 97
+Hit! 97,
+94,95,96,97
+n1 is 97, n2 is 94
+97 > 94
+n1 is 97, n2 is 95
+97 > 95
+n1 is 97, n2 is 96
+97 > 96
+n1 is 97, n2 is 97
+Hit! 97,
+n1 is 98, n2 is 98
+Hit! 98,
+n1 is 99, n2 is 99
+Hit! 99,
+n1 is 100, n2 is 100
+Hit! 100,
+97,98,99,100
+n1 is 54, n2 is 93
+n1 is 55, n2 is 93
+n1 is 56, n2 is 93
+n1 is 57, n2 is 93
+n1 is 58, n2 is 93
+n1 is 59, n2 is 93
+n1 is 60, n2 is 93
+n1 is 61, n2 is 93
+n1 is 62, n2 is 93
+n1 is 63, n2 is 93
+n1 is 64, n2 is 93
+n1 is 65, n2 is 93
+
+n1 is 96, n2 is 97
+n1 is 97, n2 is 97
+Hit! 97,
+n1 is 98, n2 is 98
+Hit! 98,
+n1 is 99, n2 is 99
+Hit! 99,
+n1 is 100, n2 is 100
+Hit! 100,
+n1 is 101, n2 is 101
+Hit! 101,
+n1 is 102, n2 is 102
+Hit! 102,
+n1 is 103, n2 is 103
+Hit! 103,
+n1 is 104, n2 is 104
+Hit! 104,
+97,98,99,100,101,102,103,104
+n1 is 57, n2 is 74
+n1 is 58, n2 is 74
+n1 is 59, n2 is 74
+n1 is 60, n2 is 74
+n1 is 61, n2 is 74
+n1 is 62, n2 is 74
+n1 is 63, n2 is 74
+n1 is 64, n2 is 74
+
+n1 is 9, n2 is 33
+n1 is 10, n2 is 33
+n1 is 11, n2 is 33
+
+n1 is 60, n2 is 68
+n1 is 61, n2 is 68
+n1 is 62, n2 is 68
+n1 is 63, n2 is 68
+n1 is 64, n2 is 68
+n1 is 65, n2 is 68
+n1 is 66, n2 is 68
+n1 is 67, n2 is 68
+n1 is 68, n2 is 68
+Hit! 68,
+n1 is 69, n2 is 69
+Hit! 69,
+n1 is 70, n2 is 70
+Hit! 70,
+n1 is 71, n2 is 71
+Hit! 71,
+n1 is 72, n2 is 72
+Hit! 72,
+n1 is 73, n2 is 73
+Hit! 73,
+n1 is 74, n2 is 74
+Hit! 74,
+68,69,70,71,72,73,74
+n1 is 72, n2 is 89
+n1 is 73, n2 is 89
+n1 is 74, n2 is 89
+n1 is 75, n2 is 89
+n1 is 76, n2 is 89
+n1 is 77, n2 is 89
+n1 is 78, n2 is 89
+n1 is 79, n2 is 89
+n1 is 80, n2 is 89
+n1 is 81, n2 is 89
+n1 is 82, n2 is 89
+n1 is 83, n2 is 89
+n1 is 84, n2 is 89
+n1 is 85, n2 is 89
+
+n1 is 56, n2 is 87
+n1 is 57, n2 is 87
+n1 is 58, n2 is 87
+n1 is 59, n2 is 87
+n1 is 60, n2 is 87
+n1 is 61, n2 is 87
+n1 is 62, n2 is 87
+n1 is 63, n2 is 87
+n1 is 64, n2 is 87
+
+n1 is 50, n2 is 98
+n1 is 51, n2 is 98
+n1 is 52, n2 is 98
+n1 is 53, n2 is 98
+n1 is 54, n2 is 98
+n1 is 55, n2 is 98
+n1 is 56, n2 is 98
+n1 is 57, n2 is 98
+n1 is 58, n2 is 98
+n1 is 59, n2 is 98
+n1 is 60, n2 is 98
+n1 is 61, n2 is 98
+n1 is 62, n2 is 98
+
+n1 is 78, n2 is 78
+Hit! 78,
+n1 is 79, n2 is 79
+Hit! 79,
+n1 is 80, n2 is 80
+Hit! 80,
+n1 is 81, n2 is 81
+Hit! 81,
+n1 is 82, n2 is 82
+Hit! 82,
+n1 is 83, n2 is 83
+Hit! 83,
+n1 is 84, n2 is 84
+Hit! 84,
+n1 is 85, n2 is 85
+Hit! 85,
+n1 is 86, n2 is 86
+Hit! 86,
+n1 is 87, n2 is 87
+Hit! 87,
+78,79,80,81,82,83,84,85,86,87
+n1 is 75, n2 is 97
+n1 is 76, n2 is 97
+n1 is 77, n2 is 97
+n1 is 78, n2 is 97
+n1 is 79, n2 is 97
+n1 is 80, n2 is 97
+n1 is 81, n2 is 97
+n1 is 82, n2 is 97
+n1 is 83, n2 is 97
+n1 is 84, n2 is 97
+n1 is 85, n2 is 97
+
+n1 is 64, n2 is 84
+n1 is 65, n2 is 84
+n1 is 66, n2 is 84
+n1 is 67, n2 is 84
+n1 is 68, n2 is 84
+n1 is 69, n2 is 84
+n1 is 70, n2 is 84
+n1 is 71, n2 is 84
+n1 is 72, n2 is 84
+n1 is 73, n2 is 84
+n1 is 74, n2 is 84
+n1 is 75, n2 is 84
+n1 is 76, n2 is 84
+
